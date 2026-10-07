@@ -1,2 +1,7 @@
-# esp32s3-rust-lab
-A collection of Rust-based embedded systems projects for the ESP32-S3, exploring sensors, motors, wireless communication, real-time control, robotics, and edge ML.
+# ESP32-S3 Rust Lab
+
+A hands-on embedded systems laboratory built around the ESP32-S3 and Rust.
+
+This repository documents my progression from low-level microcontroller
+fundamentals to robotics, wireless systems, real-time control, and edge
+machine learning.
