@@ -1,4 +1,4 @@
-# ESP32-S3 Rust Lab
+# ESP32-S3 Embedded Lab
 
 A hands-on embedded systems laboratory built around the ESP32-S3 and Rust.
 
